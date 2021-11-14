@@ -1,4 +1,4 @@
-import numpy as npimport numpy as np
+import numpy as np
 from ipywidgets import interact, fixed
 from PIL import Image
 
